@@ -1,7 +1,7 @@
 # powerbi-projects
 
-# Compa
+ Compa
 
 
-# Compor proje
+ Compor proje
 
