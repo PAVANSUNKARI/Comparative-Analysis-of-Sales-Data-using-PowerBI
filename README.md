@@ -1,6 +1,5 @@
-# PowerBI-Projects
 
-## Comparative Analysis Dashboard.
+# Comparative Analysis Dashboard.
 
 In this dashboard,
   >I have displayed the comparison of Current Year Sales with Previous Year sales and YoY sales growth%. 
